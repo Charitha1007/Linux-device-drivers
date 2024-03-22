@@ -3,8 +3,8 @@
 #include <string.h>
 #include <sys/types.h>
 #include <sys/stat.h>
-#include <fcntl.h>
-#include <unistd.h>
+//#include <fcntl.h>
+//#include <unistd.h>
 int8_t write_buf[1024];
 int8_t read_buf[1024];
 int main()
